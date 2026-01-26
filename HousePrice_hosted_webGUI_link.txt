@@ -1,0 +1,6 @@
+Name: Erinson Opemipooluwa
+Matric Number: 22CD032137
+Machine Learning Algorithm Used: Random Forest Regressor
+Model Persistence Method Used: Joblib
+Live URL of Hosted Application:https://houseprice-project-erinsonopemipooluwa.onrender.com
+ GitHub Repository Link: https://github.com/Opemipooluwa/HousePrice_Project_ErinsonOpemipooluwa_22CD032137
